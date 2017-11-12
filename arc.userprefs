@@ -1,5 +1,12 @@
 ﻿<Properties StartupConfiguration="{29996183-4D8F-4AD8-B69D-60FB7860C709}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="arc Status">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="25" Column="35" />
+      <File FileName="Controllers Status" />
+      <File FileName="Views/Home/Test.cshtml" Line="11" Column="1" />
+      <File FileName="arc Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
